@@ -1,0 +1,18 @@
+.mainhead {
+    background-color: rgb(090, 200, 170);
+    color: rgb(230, 202, 241);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800;
+}
+.oaktreehomepage {
+    height: auto;
+    width: 300px;
+}
+p {
+    color: rgb(180, 100, 70);
+}
+.subheading {
+
+}
