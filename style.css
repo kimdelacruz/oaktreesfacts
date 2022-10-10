@@ -12,7 +12,11 @@
 }
 p {
     color: rgb(180, 100, 70);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
 }
 .subheading {
-
+    color: rgb(100, 200, 060);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
 }
