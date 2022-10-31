@@ -1,6 +1,7 @@
 * {
     background-color: lavender;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 8px;
 }
 .mainhead {
     background-color: rgb(090, 200, 170);
@@ -16,6 +17,8 @@
     width: 500px;
     margin-left: 400px;
     margin-right: 400px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 .content, em {
     background:rgb(212, 245, 200);
@@ -26,9 +29,8 @@
 .subheading {
     color: rgb(100, 200, 060);
     font-size: 20px;
-    background-color: azure;
-    width: 576px;
-    margin-left: 350px;
-    margin-right: 350px;
-    padding: 8px;
+    margin-bottom: 5px;
+}
+.oaktreelist {
+    font-size: 15px;
 }
